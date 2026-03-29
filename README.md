@@ -14,7 +14,7 @@ Created an infographic using Canva to explain digital literacy concepts.
 Created profiles on platforms like GitHub, LinkedIn, and Kaggle.
 
 # Task 3: Platform Practice
-Solved a problem on HackerRank and created a Google Form.
+Solved a problem on HackerRank and created a Google Form Link (https://forms.gle/UHoGWduswZZj13Xa9)
 
 # Task 4: Communication
 Prepared professional emails and a social media safety checklist.
